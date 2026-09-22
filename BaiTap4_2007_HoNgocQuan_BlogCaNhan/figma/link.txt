@@ -1,0 +1,10 @@
+DAN_LINK_FIGMA_VIEW_ONLY_VAO_DAY
+
+Huong dan:
+1. Mo https://www.figma.com
+2. Tao file Figma moi hoac mo file da co
+3. Thiet ke portfolio theo spec trong design-spec.md
+4. Sao chep link share (View only) vao day
+5. Luu file
+
+Luu y: Day la placeholder. Ban can thay bang link Figma thuc sau khi hoan thanh thiet ke.
