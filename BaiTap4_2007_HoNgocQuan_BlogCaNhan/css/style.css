@@ -768,10 +768,10 @@ button:focus-visible,
 
 .hero__name {
     font-family: var(--font-sans);
-    font-size: clamp(4.5rem, 10.5vw, 10.5rem);
+    font-size: clamp(2.25rem, 5.25vw, 5.25rem);
     font-weight: 500;
-    line-height: .84;
-    letter-spacing: -.065em;
+    line-height: .9;
+    letter-spacing: -.05em;
     margin-bottom: 32px;
     text-wrap: balance;
 }
@@ -1837,8 +1837,8 @@ button:focus-visible,
     }
     
     .hero__name {
-        font-size: clamp(3.3rem, 17vw, 5.2rem);
-        letter-spacing: -.045em;
+        font-size: clamp(2.1rem, 10.5vw, 3.15rem);
+        letter-spacing: -.04em;
     }
     
     .hero__portrait {
@@ -1978,7 +1978,7 @@ button:focus-visible,
 
 @media (max-width: 480px) {
     .hero__name {
-        font-size: clamp(3rem, 16vw, 4.5rem);
+        font-size: clamp(1.875rem, 10.5vw, 2.625rem);
     }
     
     .about__statement {
