@@ -33,10 +33,10 @@ Portfolio cá nhân của **Hồ Ngọc Quân** - sinh viên IT với niềm đa
 
 ## Kết quả hiển thị
 
-### Desktop View
+### 
 ![Desktop View](ketqua/{CE848AEC-8D7A-489C-8FFA-D59AAD592613}.png)
 
-### Mobile View
+### 
 ![Mobile View](ketqua/{E3EE8CEA-87C7-4041-876C-6A017FD790D5}.png)
 
 ## Cấu trúc thư mục
